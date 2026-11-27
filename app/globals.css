@@ -24,3 +24,6 @@
 .seoRelated{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 24px;padding-left:20px}
 .seoFooter{border-top:1px solid #292929;padding:24px;text-align:center;color:#888;font-size:13px}
 @media(max-width:600px){.seoHeader{padding:18px}.seoContent{padding:32px 20px 56px}.seoRelated{grid-template-columns:1fr}.seoContent h1{font-size:38px}}
+
+/* Search results */
+.search .btn{cursor:pointer;font:inherit;font-weight:850}.seoBack{font-weight:700}.seoCta p{line-height:1.7}
