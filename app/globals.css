@@ -27,3 +27,6 @@
 
 /* Search results */
 .search .btn{cursor:pointer;font:inherit;font-weight:850}.seoBack{font-weight:700}.seoCta p{line-height:1.7}
+
+/* National reference locations */
+.airportList{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:24px 0}.airportList .card{background:#1d1d1d;border-color:#383838}.airportList .card h3{color:#fff;font-size:17px;line-height:1.35}.airportList .card p{color:#c4c4c4}.airportList .card .lead{font-size:13px}.airportList .tag{background:#e3343e;color:#fff}@media(max-width:650px){.airportList{grid-template-columns:1fr}}
