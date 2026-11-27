@@ -11,6 +11,7 @@ const mediaPages = [
   'midia-indoor',
   'elevadores',
   'transporte',
+  'aeroportos',
   'eventos-e-ativacoes',
   'midia-digital',
 ];
