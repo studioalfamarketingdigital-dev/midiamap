@@ -111,6 +111,23 @@ const categories = [
     ]
   },
   {
+    "slug": "aeroportos",
+    "name": "Mídia em aeroportos",
+    "title": "Anunciar em aeroportos no Brasil",
+    "desc": "Descubra oportunidades de publicidade em aeroportos brasileiros, incluindo terminais de passageiros, áreas de embarque e desembarque, esteiras de bagagem, estacionamentos, salas VIP e áreas comerciais. A contratação depende do operador autorizado e das regras de cada aeroporto.",
+    "formats": [
+      "Painéis digitais e redes DOOH",
+      "Backlights e painéis estáticos",
+      "Mídia em portões de embarque",
+      "Esteiras de restituição de bagagem",
+      "Envelopamento e comunicação em carrinhos",
+      "Salas VIP e lounges",
+      "Mídia em estacionamentos e acessos",
+      "Stands, sampling e ativações",
+      "Naming rights e patrocínios"
+    ]
+  },
+  {
     "slug": "eventos-e-ativacoes",
     "name": "Eventos e ativações",
     "title": "Publicidade em eventos e ativações de marca",
